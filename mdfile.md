@@ -1,1 +1,7 @@
-### A new markdown file added to GitDemo repository remotely. 
+### A new markdown file created to GitDemo repository remotely. 
+
+
+This file has been edited locally. 
+---
+
+Important commands when using Git: 
