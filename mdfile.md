@@ -16,7 +16,7 @@ git remote add origin https://github.com/user/repository.git
 
 (git status)
 
-git push -u origin master / git push origin master
+git push origin master (git push -u origin master -> jatkossa riittää pelkkä git push)
 
 
 
