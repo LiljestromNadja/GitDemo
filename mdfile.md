@@ -12,7 +12,7 @@ git add .
 
 git commit -m "message"
 
-git remote add origin https://github.com/user/repository.git
+(git remote add origin https://github.com/user/repository.git)
 
 (git status)
 
